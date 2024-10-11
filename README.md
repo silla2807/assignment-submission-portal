@@ -2,7 +2,7 @@
 # Assignment Submission Portal
 
 ## Overview
-This is a Spring Boot backend application designed for managing assignment submissions. It allows users (students) to submit assignments and admins to review and either accept or reject them. MongoDB is used for data storage, and the system follows the MVC architecture.
+This is a Spring Boot backend application designed for managing assignment submissions. It allows users to submit assignments and admins to review and either accept or reject them. MongoDB is used for data storage, and the system follows the MVC architecture.
 
 ## Tech Stack
 - **Backend:** Java, Spring Boot
